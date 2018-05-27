@@ -26,10 +26,10 @@ make run
 
 ![](splash.png)
 
-[Documentação](doc)
+[Documentação](doc/html/index.html)
 
 * Instale o EpyDoc
 
 ```
-make doc
+make html
 ```
