@@ -1,0 +1,6 @@
+janela 800 600
+ponto_inicial 10
+obstaculo 200 100 20
+alvo 300 10 5
+tiro 150 70
+tiro 100 30

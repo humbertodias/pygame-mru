@@ -1,0 +1,2 @@
+tiro [0] v0(150.0) time(1.5833333333333326) max (81.23, 500.00) alvo None  obstaculo None
+tiro [1] v0(100.0) time(1.5833333333333326) max (137.12, 500.00) alvo None  obstaculo None
