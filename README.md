@@ -1,16 +1,15 @@
 # Simulador de lançamento de projétil
 
-[Enunciado](enunciado.pdf) com [Entrada](entrada.txt)
-e [Saída](saida.txt)
-
+[Enunciado](enunciado.pdf) com [Entrada](entrada.txt) e [Saída](saida.txt)
 Por fim a [Demonstração](https://youtu.be/R0Iu3LlgiOE)
+[Documentação](doc/pdf/api.pdf)
 
 ## Dependencias: 
 
-Python 3 e pygame 
+Python 3 + PyGame 
 
 ```
-pip install pygame
+pip install -r requirements.txt
 ```
 
 Rodar
@@ -25,11 +24,3 @@ make run
 ```
 
 ![](splash.png)
-
-[Documentação](doc/html/index.html)
-
-* Instale o EpyDoc
-
-```
-make html
-```
