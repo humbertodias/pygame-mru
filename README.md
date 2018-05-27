@@ -26,3 +26,5 @@ make run
 ![](splash.png)
 
 [Documentação](doc/pdf/api.pdf)
+
+[Movimento retilíneo uniforme - MRU](https://pt.wikipedia.org/wiki/Movimento_retil%C3%ADneo_uniforme)
