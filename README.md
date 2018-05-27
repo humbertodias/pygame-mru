@@ -24,6 +24,12 @@ ou
 make run
 ```
 
+![](splash.png)
+
 [Documentação](doc)
 
 * Instale o EpyDoc
+
+```
+make doc
+```
