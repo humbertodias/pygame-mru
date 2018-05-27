@@ -1,8 +1,8 @@
 # Simulador de lançamento de projétil
 
 [Enunciado](enunciado.pdf) com [Entrada](entrada.txt) e [Saída](saida.txt)
+
 Por fim a [Demonstração](https://youtu.be/R0Iu3LlgiOE)
-[Documentação](doc/pdf/api.pdf)
 
 ## Dependencias: 
 
@@ -24,3 +24,5 @@ make run
 ```
 
 ![](splash.png)
+
+[Documentação](doc/pdf/api.pdf)
